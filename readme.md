@@ -1,6 +1,9 @@
 
 # Meeting Management Tool
 
+## Demo
+[![Watch the video](https://drive.google.com/file/d/14LHiU9aBoOATzmmhiVZn-8VTZ1XRLn8d/view?usp=sharing)](https://drive.google.com/file/d/18Hp5lJNZYLY2MWipr_S9sqiXsm3fM_ay/view?usp=sharing)
+
 ## Features
 
 ### 1. Pre-Meeting Document Management
