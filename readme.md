@@ -133,8 +133,7 @@ ${JSON.stringify(discussionPoints, null, 2)}
     ```plaintext
     Analyze the following discussion points and transcript:
     Discussion Points:
-    ${discussionPoints.map((point, index) => `${index + 1}. ${point.points.join(", ")}`).join("
-")}
+    ${discussionPoints.map((point, index) => `${index + 1}. ${point.points.join(", ")}`).join("")}
     Transcript:
     ${transcript}
     Please provide the following analysis:
