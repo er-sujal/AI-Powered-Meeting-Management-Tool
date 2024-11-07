@@ -1,7 +1,9 @@
 
 # Meeting Management Tool
 
-## Demo
+## Demo Video
+
+### To view demo video click on image below
 
 [![Watch the video](https://github.com/user-attachments/assets/35a9cf1f-fd78-4b34-9ff0-1ee154627dd1)](https://drive.google.com/file/d/18Hp5lJNZYLY2MWipr_S9sqiXsm3fM_ay/view?usp=sharing)
 
