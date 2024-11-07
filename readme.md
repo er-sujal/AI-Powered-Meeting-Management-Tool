@@ -125,8 +125,7 @@ Once generated, embeddings are stored in Pinecone as vectorized representations 
     3. Subtopics under each heading if necessary, to show how related points are connected.
     4. Do not include (**Time:**, **Location:**, **Attendees:**).
     Here are the discussion points:
-    
-${JSON.stringify(discussionPoints, null, 2)}
+    ${JSON.stringify(discussionPoints, null, 2)}
     ```
 
 2. **To Track the Points**:
