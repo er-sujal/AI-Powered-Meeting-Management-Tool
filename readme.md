@@ -2,7 +2,8 @@
 # Meeting Management Tool
 
 ## Demo
-[![Watch the video](https://drive.google.com/file/d/14LHiU9aBoOATzmmhiVZn-8VTZ1XRLn8d/view?usp=sharing)](https://drive.google.com/file/d/18Hp5lJNZYLY2MWipr_S9sqiXsm3fM_ay/view?usp=sharing)
+
+[![Watch the video](https://github.com/user-attachments/assets/35a9cf1f-fd78-4b34-9ff0-1ee154627dd1)](https://drive.google.com/file/d/18Hp5lJNZYLY2MWipr_S9sqiXsm3fM_ay/view?usp=sharing)
 
 ## Features
 
